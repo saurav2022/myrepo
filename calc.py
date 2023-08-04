@@ -1,5 +1,6 @@
 def add(a, b):
-    pass
+    print("ADD")
+    return a + b
 
 
 def subtract(a, b):
