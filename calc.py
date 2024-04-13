@@ -1,4 +1,3 @@
-# This is a demo Python file
 def add(a, b):
     print("ADD")
     return a + b
